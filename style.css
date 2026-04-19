@@ -60,3 +60,11 @@ footer {
     padding: 12px;
 }
 
+img {
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+section p {
+    max-width: 600px;
+}
